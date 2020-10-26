@@ -1,0 +1,33 @@
+#fname {
+    margin-left: 10px;
+}
+
+#phone {
+    margin-left: 10px;
+}
+
+#adress {
+    margin-left: 10px;
+}
+
+#id {
+    margin-left: 10px;
+}
+
+.btn-alert {
+    background-color: #1A1794;
+    color: #ffff;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.lh-condensed {
+    line-height: 1.25;
+}
+
+.center {
+    align-items: center;
+    padding-left: 750px;
+}
